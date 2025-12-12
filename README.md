@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 <p align="center">You are</p>
 <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/AloneX079/count.svg"/></p>
 <p align="center">Visitor to Waste your time!</p>
+-->
+
